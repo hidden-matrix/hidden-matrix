@@ -111,5 +111,5 @@ Azure 上にデータ基盤を組み、出所も粒度も違うデータを掛�
 ## 📫 Contact
 
 - GitHub: [@hidden-matrix](https://github.com/hidden-matrix)
-- LinkedIn: <!-- URL -->
+- LinkedIn: [https://www.linkedin.com/in/hdyk23/](https://www.linkedin.com/in/hdyk23/)
 - Email: hidden.matrix.jp@gmail.com
