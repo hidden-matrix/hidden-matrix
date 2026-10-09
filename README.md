@@ -19,14 +19,14 @@
 
 ## 🙋 About Me
 
-システム開発会社で、**データエンジニアリングとAI開発**を担当しています。
+データエンジニアリングとAI開発を担当しています。
 Azure 上にデータ基盤を組み、出所も粒度も違うデータを掛け合わせて分析し、ダッシュボードや AI 分析としてお客さまの現場に届けるところまでを一気通貫でやっています。
 2024年から AI を使ったデータ分析・レポート自動化に取り組み、2026年からは Azure / Fabric で本格的なデータ基盤の構築を担当しています。
 
 キャリアはちょっと変わっていて、化学工学 → インフラエンジニア → **会社経営（12年）** → デジタルマーケティング → データエンジニア という経路です。
 経営者として「数字を見て決める側」を10年以上やってきたので、ダッシュボードひとつ作るにも **「誰が、何を決めるために見るのか」から逆算** して設計します。技術的に正しいだけで終わらない、経営に効くデータ活用が得意分野です。
 
-> I build data platforms and AI-powered analytics on Azure, integrating heterogeneous data into insights that drive real decisions. Before returning to hands-on engineering, I ran a company as CEO for 12 years — growing annual revenue from ¥30M to ¥120M in 6 years through data-driven management.
+> I build data platforms and AI-powered analytics on Azure, integrating heterogeneous data into insights that drive real decisions. Before returning to hands-on engineering, I ran a company as CEO for 12 years — growing annual revenue from ¥30M to roughly ¥200M in 6 years through data-driven management.
 
 ## 🛠 What I Do Now
 
@@ -39,7 +39,7 @@ Azure 上にデータ基盤を組み、出所も粒度も違うデータを掛�
 
 **広告制作・広告代理・Webアプリ開発企業｜2011.09 – 2024.06（経営12年）**
 
-**売上 3,000万円 → 1.2億円（6年）｜従業員3倍｜補助金採択7件以上**<br>
+**年商 3,000万円 → 2億円規模（6年）｜従業員3倍｜補助金採択7件以上**<br>
 経営計画の策定・実行、営業フローの数値化とシステム化、資金調達、人事制度設計、M&A まで経営全般を担当。
 
 <details>
@@ -48,7 +48,7 @@ Azure 上にデータ基盤を組み、出所も粒度も違うデータを掛�
 フリーペーパーの制作・発行、Web アプリケーション開発、販促物制作を手がける会社を経営。
 
 ### 事業成長
-- 売上を初年度 **3,000万円 → 6年で1.2億円** に伸長、**従業員3倍**に拡大
+- 年商を初年度 **3,000万円 → 6年で2億円規模** に伸長、**従業員3倍**に拡大
 - 中期・短期経営計画を策定し、全社員への方針浸透から個人ごとの行動計画管理まで一貫して実行
 
 ### データドリブンな課題解決
@@ -86,9 +86,9 @@ Azure 上にデータ基盤を組み、出所も粒度も違うデータを掛�
 
 | 期間 | 会社（業種） | 役割 | 内容 |
 |---|---|---|---|
-| 2026.04 – 現在 | システム開発会社 | Data Engineer & AI Developer | Azure / Fabric / Power BI / Logic Apps を用いたデータ基盤・AI 分析の開発、異種データの統合分析 |
+| 2026.04 – 現在 | 非公開（システム開発） | Data Engineer & AI Developer | Azure / Fabric / Power BI / Logic Apps を用いたデータ基盤・AI 分析の開発 |
 | 2024.04 – 2026.03 | Web マーケティング事業会社 | Director → Chief Director | 入社3ヶ月でチーフに昇進。AI を活用した顧客データ・サイト分析レポートの自動化で手作業の報告業務を大幅削減、GA4 によるデータドリブン提案 |
-| 2011.09 – 2024.06 | 広告制作・広告代理・Web アプリ開発企業 | **代表取締役 / CEO** | 経営12年。売上3,000万円→1.2億円、従業員3倍。営業の数値化とシステム化、補助金7件以上、人事評価制度、M&A 実務（詳細は上記） |
+| 2011.09 – 2024.06 | 広告制作・広告代理・Web アプリ開発企業 | **代表取締役 / CEO** | 経営12年。年商3,000万円→2億円規模、従業員3倍。営業の数値化とシステム化、補助金7件以上、人事評価制度、M&A 実務（詳細は上記） |
 | 2004.02 – 2011.02 | システム開発会社 | Infrastructure Engineer | 大手グループ基幹のシングルサインオン基盤の構築・運用・保守、Unix/Linux/Windows Server、遠隔バックアップ |
 | 1998.11 – 2004.01 | 自動車販売会社 | Systems Engineer | 社内ネットワーク設計、本社・支店間 VPN、Exchange Server の設計・構築・運用 |
 | 1998.04 – 1998.10 | 自動制御・医療機器開発企業 | Programmer | Visual Basic による食品加工システム開発 |
@@ -114,4 +114,4 @@ Azure 上にデータ基盤を組み、出所も粒度も違うデータを掛�
 
 - GitHub: [@hidden-matrix](https://github.com/hidden-matrix)
 - LinkedIn: [linkedin.com/in/hdyk23](https://www.linkedin.com/in/hdyk23/)
-- Email: hidden.matrix.jp@gmail.com
+- Email: maruyama@finegate.net
