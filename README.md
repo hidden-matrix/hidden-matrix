@@ -1,4 +1,5 @@
 # Hi there, I'm Hideyuki 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidden-matrix&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <b>Data Engineer & AI Developer | Former CEO</b><br>
